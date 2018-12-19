@@ -1,2 +1,2 @@
 # yelpcamp
-deploy on https://pacific-shelf-76023.herokuapp.com/
+Deploy on https://pacific-shelf-76023.herokuapp.com/
